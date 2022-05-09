@@ -1,0 +1,27 @@
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\ED Tracker.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\ED Tracker.exe
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\ED Tracker.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\obj\Debug\ED Tracker.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\obj\Debug\ED_Tracker.loginform.resources
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\obj\Debug\ED_Tracker.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\obj\Debug\ED Tracker.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\obj\Debug\ED Tracker.exe.licenses
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\obj\Debug\ED Tracker.exe
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\obj\Debug\ED Tracker.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\obj\Debug\ED_Tracker.Splashscreen.resources
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+c:\users\admin\documents\visual studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ED Tracker\ED Tracker\obj\Debug\ED_Tracker.Dashboard.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ED Tracker\ED Tracker\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
